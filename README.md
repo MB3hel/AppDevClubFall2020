@@ -8,4 +8,4 @@ This repository contains the code for any projects I taught during the Fall 2020
 
 Simple intro / demo app. Asks user's name and the display's hello message. Used as an intro to Xcode and the workflow for iOS app development.
 
-<img src="TestApp/screenshot.jpg" height=150 />
+<img src="TestApp/screenshot.jpg" height=300 />

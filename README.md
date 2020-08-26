@@ -4,10 +4,8 @@ This repository contains the code for any projects I taught during the Fall 2020
 
 ## iOS Meetings
 
-### Meeting 1 (8/25/2020)
+### [Meeting 1 (8/25/2020)](./TestApp)
 
 Simple intro / demo app. Asks user's name and the display's hello message. Used as an intro to Xcode and the workflow for iOS app development.
 
-![SCREENSHOT](TestApp/screenshot.jpg)
-
-[TestApp](./TestApp)
+<img src="TestApp/screenshot.jpg" height=150 />

@@ -9,3 +9,7 @@ This repository contains the code for any projects I taught during the Fall 2020
 Simple intro / demo app. Asks user's name and the display's hello message. Used as an intro to Xcode and the workflow for iOS app development.
 
 <img src="TestApp/screenshot.jpg" height=300 />
+
+### [Meeting 2 (9/22/2020)](./SimpleCalculator)
+
+Simple 4 function calculator app used to teach use of constraints for creating UIs.
